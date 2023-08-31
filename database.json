@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "nomsort":"Ammunition Eyes",
+        "nivsort":3,
+        "ecolesort":"Transmutation",
+        "tempssort":"1 action",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Confère l'avantage au jet d'attaque à distance en utilisant des flèches"
+    },
+    {
+        "id":1,
+        "nomsort":"Amplify the Pain",
+        "nivsort":3,
+        "ecolesort":"Nécromancie",
+        "tempssort":"1 action bonus",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Confère un bonus de dégats à la cible pendant toute la durée du sort"
+    },
+    {
+        "id":1,
+        "nomsort":"Arena's Fervor",
+        "nivsort":1,
+        "ecolesort":"Enchantement",
+        "tempssort":"1 action",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Confère au lanceur et aux créatures consentantes un bonus aux jets de sauvegarde de force, aux tests de forces et aux jets contre la peur. De plus, offre un bonus de +2 aux jets de dégâts."
+    },
+    {
+        "id":1,
+        "nomsort":"Aurora Heal",
+        "nivsort":4,
+        "ecolesort":"Évocation",
+        "tempssort":"1 action bonus",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Permet de soigner les alliés dans la zone de 1D6+bonus de maitrise. Suspend les effets qui affectent les alliés"
+    },
+        {
+        "id":1,
+        "nomsort":"Avelum's Force Sphere",
+        "nivsort":3,
+        "ecolesort":"Évocation",
+        "tempssort":"1 action",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Créer 5 sphères qui infligents 3D6 dégâts de forces aux créatures qui commencent ou qui rentrent en leurs contact"
+    },
+        {
+        "id":1,
+        "nomsort":"Banner of Inspiration",
+        "nivsort":1,
+        "ecolesort":"Enchantement",
+        "tempssort":"1 action",
+        "concentrationsort":false,
+        "rituelsort":false,
+        "descriptionsort":"Créer une bannière qui permet d'ajouter 1D6 aux jets de caractéristiques, de sauvegarde, ou d'attaque"
+    },
+        {
+        "id":1,
+        "nomsort":"Beacon of Envy",
+        "nivsort":3,
+        "ecolesort":"Abjuration",
+        "tempssort":"1 réaction",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Permet de voler le résultat d'un jet d'attaque ou de sauvegarde d'un ennemi que vous pouvez voir en  lui imposant un test de charisme"
+    },
+        {
+        "id":1,
+        "nomsort":"Bite of Naga Queen",
+        "nivsort":5,
+        "ecolesort":"Transmutation",
+        "tempssort":"1 action",
+        "concentrationsort":false,
+        "rituelsort":false,
+        "descriptionsort":"Permet d'attaquer une créature à 3M ou moins avec une attaque de corps à corps en tentant de l'empoisonner ou de cracher un cône de poison"
+    },
+        {
+        "id":1,
+        "nomsort":"Black Dragon's Mantle",
+        "nivsort":6,
+        "ecolesort":"Transmutation",
+        "tempssort":"1 action",
+        "concentrationsort":true,
+        "rituelsort":false,
+        "descriptionsort":"Permet d'entourer la créature ciblé de flammes noires, donnant la résistance aux dégâts de feu et nécrotique. Donne 1D6 de dégats de feu et 1D6 de dégats nécrotique aux créatures qui touchent la cible"
+    }
+]

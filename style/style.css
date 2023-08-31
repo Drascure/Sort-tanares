@@ -1,0 +1,50 @@
+
+
+body {
+    background: url(../images/fond-ecran.png) fixed;
+    
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+a {
+    color: rgb(180, 4, 4);
+    text-decoration: none;
+}
+
+.niv {
+    text-align: center;
+}
+
+td {
+    padding: 3px 5px 3px 5px;
+}
+
+.niv {
+    padding: 0;
+}
+
+h1 {
+    color: rgb(180, 4, 4);
+    font-size: 1.5em;
+}
+
+h2 {
+    font-size: 1.1em;
+    font-style: italic;
+}
+
+.sort {
+    padding: 0 40% 0 20%;
+    font-size: 1.2em;
+}
+
+.description {
+    text-align: justify;
+}
